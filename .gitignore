@@ -1,0 +1,34 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# MATLAB and numerical temporary files
+*.asv
+*.mat
+*.mlx
+*.fig
+
+# Raw or large data files
+*.wav
+*.mp3
+*.mp4
+*.zip
+*.7z
+*.rar
+raw_data/
+data/raw/
+
+# Python temporary files, if scripts are added later
+__pycache__/
+*.pyc
+.venv/
+venv/
