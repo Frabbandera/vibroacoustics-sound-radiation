@@ -101,18 +101,6 @@ vibroacoustics-sound-radiation/
 - Evaluated SPL at virtual hemispherical microphone positions in one-third-octave bands.
 - Compared low-frequency radiation patterns, showing more uniform behaviour at 250 Hz and stronger spatial variation at 500 Hz.
 
-## Relevance to Acoustic Engineering and NVH
-
-This project supports an acoustic-engineering portfolio because it links mechanical vibration, structural mobility, and sound radiation. These concepts are directly relevant to vibroacoustics and noise-control problems where vibrating structures radiate sound into an acoustic domain.
-
-The project is especially relevant as supporting evidence for:
-
-- vibroacoustic modelling fundamentals;
-- interpretation of modal behaviour and FRF-like quantities;
-- structure-to-air acoustic radiation workflows;
-- physical understanding of sound radiation from lightweight panels and plates;
-- acoustic simulation and NVH-oriented reasoning.
-
 ## Reproducibility Status
 
 This repository does not include the original computational scripts. The reports document the governing equations, assumptions, methods, figures, and results, but the repository should not be treated as a fully reproducible codebase.
