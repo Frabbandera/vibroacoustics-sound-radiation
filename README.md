@@ -89,18 +89,6 @@ vibroacoustics-sound-radiation/
 - Evaluated SPL at virtual hemispherical microphone positions in one-third-octave bands.
 - Compared low-frequency radiation patterns, showing more uniform behaviour at 250 Hz and stronger spatial variation at 500 Hz.
 
-## Reproducibility Status
-
-This repository does not include the original computational scripts. The reports document the governing equations, assumptions, methods, figures, and results, but the repository should not be treated as a fully reproducible codebase.
-
-A future reproducible version could include:
-
-- MATLAB scripts for string and plate modal analysis;
-- functions for receptance, mobility, and reaction-force computation;
-- scripts for Kirchhoff-Helmholtz pressure integration;
-- a small configuration file collecting the physical parameters;
-- a `run_all.m` script to regenerate the figures.
-
 ## Authorship
 
 This was an academic group project developed by Francesco Bandera and Anna Impembo. The repository presents the work as a collaborative technical case study.
