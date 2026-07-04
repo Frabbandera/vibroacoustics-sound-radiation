@@ -19,18 +19,6 @@ The project is organised into three connected stages:
 3. **Sound radiation from a vibrating plate**  
    Acoustic pressure prediction using a Kirchhoff-Helmholtz / Green's-function formulation, SPL estimation over one-third-octave bands, and hemispherical radiation visualisation for virtual microphone positions.
 
-## Engineering Context
-
-The project connects structural dynamics and acoustic radiation. It is relevant to vibroacoustics, acoustic radiation prediction, lightweight-structure noise, musical-acoustics-inspired mechanical systems, and validation-oriented modelling workflows.
-
-Although the system is simplified and analytical, the workflow reflects engineering tasks that are also relevant in broader acoustic simulation contexts:
-
-- deriving governing equations from physical assumptions;
-- applying boundary conditions and modal decomposition;
-- interpreting frequency-response functions and mobility;
-- transferring structural vibration quantities into acoustic-radiation estimates;
-- using one-third-octave SPL representations and microphone-array style evaluation.
-
 ## Methods
 
 ### String vibration
